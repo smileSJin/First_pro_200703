@@ -8,3 +8,5 @@ method(){
 method(){
   print("the text has changed")
 }
+
+new Branch changed！
